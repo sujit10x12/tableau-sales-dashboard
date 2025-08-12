@@ -11,8 +11,8 @@ Deliver an interactive Tableau dashboard by [define deadline] that visualizes ca
 
 ## 🌐 Live Dashboard
 
-  > ✅ [Sales Dashboard](https://public.tableau.com/app/profile/sujit.singh5086/viz/TableCalculation_17548913713240/ofRunningTotal?publish=yes)  
-  > ✅ [Performance by Location Dashboard](https://public.tableau.com/app/profile/sujit.singh5086/viz/TableCalculation_17548913713240/ofRunningTotal?publish=yes)
+  > ✅ [Sales Dashboard](https://public.tableau.com/views/TableCalculation_17548913713240/PerformanceSummary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  > ✅ [Performance by Location Dashboard](https://public.tableau.com/views/TableCalculation_17548913713240/Regional?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
