@@ -1,11 +1,13 @@
-# tableau-sales-dashboard
-This project delivers two interactive Tableau dashboards that make sales performance easy to explore by location. View category contributions, compare states, and track regional trends and quarterly changes—all through clear, actionable visuals.
+# 📊 Tableau Sales Dashboard
+<img width="1499" height="899" alt="Regional" src="https://github.com/user-attachments/assets/ff59e109-5268-4620-adc1-f4d6017795f0" />
+
+<img width="1499" height="899" alt="Performance Summary" src="https://github.com/user-attachments/assets/08751b14-48c5-4e5c-86d3-625e26e06506" />
 
 ---
 
 ## 👀 What’s This Project About?
 
-Deliver an interactive Tableau dashboard by [define deadline] that visualizes category-level contribution across regions, highlights state performance against averages, and provides insights into category trends, regional rankings, and quarterly sales progression—empowering stakeholders with actionable, data-driven visibility.
+Deliver an interactive Tableau dashboard that visualizes category-level contribution across regions, highlights state performance against averages, and provides insights into category trends, regional rankings, and quarterly sales progression—empowering stakeholders with actionable, data-driven visibility.
 
 ---
 
