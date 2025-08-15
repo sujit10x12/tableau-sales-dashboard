@@ -1,7 +1,8 @@
 # 📊 Tableau Sales Dashboard
-<img width="1499" height="899" alt="Regional" src="https://github.com/user-attachments/assets/ff59e109-5268-4620-adc1-f4d6017795f0" />
+<img width="1499" height="899" alt="Performance Summary" src="https://github.com/user-attachments/assets/55cb62db-7d3a-4012-a845-70effbef7874" />
 
-<img width="1499" height="899" alt="Performance Summary" src="https://github.com/user-attachments/assets/08751b14-48c5-4e5c-86d3-625e26e06506" />
+
+<img width="1499" height="899" alt="Regional Per" src="https://github.com/user-attachments/assets/192e9b8c-380f-42fb-91d1-1b4a0a1fba5d" />
 
 ---
 
